@@ -62,8 +62,8 @@
     "replace-in-files": "^3.0.0",
     "start-server-and-test": "^2.1.2",
     "typescript": "^5.9.3",
-    "vite": "^7.1.12",
-    "vitest": "^4.1.7",
+    "vite": "^8.3.4",
+    "vitest": "^5.0.5",
     "vitest-axe": "^1.0.0-pre.5"
   },
   "packageManager": "pnpm@11.5.0"
